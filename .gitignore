@@ -1,3 +1,4 @@
 /node_modules
 /src/error_handling/node_modules/
 /src/list/node_modules/
+/src/list/__test__/node_modules/
