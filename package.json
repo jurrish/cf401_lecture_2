@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
     "jest": "^25.1.0",
+    "node": "^13.7.0",
     "yarn": "^1.22.0"
   }
 }
